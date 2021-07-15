@@ -1,6 +1,7 @@
 # Curso de Introducción a las Bases de Datos
-##Curso correspondiente a la semana 2 de Accenturo sobre la introducción a las bases de datos.
-###El motor de bases de datos utilizado al momento es MySQL Workbench.
+## Curso correspondiente a la semana 2 de Accenturo sobre la introducción a las bases de datos.
+
+### El motor de bases de datos utilizado al momento es MySQL Workbench.
 <ul>
   <li>platziblog.sql es la base de datos principal que se esta trabajando en el curso.</li>
   <li>dbtest_person.sql es una base de datos de prueba donde se hicieron Querys de tipo: </li>
