@@ -16,4 +16,6 @@
   <li>OrderBy_Having.sql script donde usamos consultas ordenando datos con ORDER BY y poniendo condiciones con HAVING</li>
   <li>Where.sql script donde probamos consultas con condiciones usando  WHERE</li>
   <li>Modelo_platziblog.mwb es el modelo ER de nuestra base de datos a ocupar en el curso</li>
+  <li>Preguntas.sql es como convertimos algunas preguntas de la vida real en consultas en una BD</li>
+  <li>QuerysAnidadas.sql es un Script de consultas anidadas</li>
 
