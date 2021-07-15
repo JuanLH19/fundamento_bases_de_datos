@@ -1,5 +1,5 @@
 # Curso de Introducción a las Bases de Datos
-## Curso correspondiente a la semana 2 de Accenturo sobre la introducción a las bases de datos.
+## Curso correspondiente a la semana 2 de la academia Backend de Java de Accenture sobre la introducción a las bases de datos en Platzi.
 
 ### El motor de bases de datos utilizado al momento es MySQL Workbench.
 <ul>
